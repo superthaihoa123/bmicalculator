@@ -1,15 +1,5 @@
-## BMI Calculator
-React Hooks app to calculate the BMI of a person. It can store the data for 7 days with the help of LocalStorage.
+BMI (Body Mass Index) là một chỉ số được sử dụng để đánh giá tình trạng cơ thể của một người dựa trên cân nặng và chiều cao của họ. BMI được tính bằng cách chia cân nặng (kilogram) cho bình phương chiều cao (mét). Kết quả BMI sẽ cho biết người đó có tình trạng thừa cân, bình thường, gầy hay béo phì.
 
-![](images/1.jpg)
+BMI Calculator ReactJS là một ứng dụng được viết bằng ReactJS để tính toán chỉ số BMI dựa trên cân nặng và chiều cao mà người dùng cung cấp. Ứng dụng này cung cấp giao diện người dùng cho phép người dùng nhập thông tin cần thiết và hiển thị kết quả BMI sau khi tính toán. Thông thường, ứng dụng sẽ có một công thức tính BMI tích hợp và hiển thị kết quả dưới dạng một số hoặc một thông báo cho người dùng.
 
-Created with _create-react-app_. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-## Install
-
-`npm install`
-
-## Usage
-
-`npm start`
-
+ReactJS là một thư viện JavaScript phổ biến và mạnh mẽ để phát triển giao diện người dùng. Nó sử dụng các thành phần tái sử dụng để xây dựng giao diện web tương tác. Khi được sử dụng trong việc phát triển BMI Calculator, ReactJS giúp tạo ra một giao diện người dùng linh hoạt, dễ dàng quản lý trạng thái và tương tác với người dùng.
